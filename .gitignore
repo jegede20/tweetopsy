@@ -4,6 +4,8 @@
 .pnp.*
 /.npm/
 /.config/
+/.cache/
+/.local/
 
 # Next.js build output
 /.next/
